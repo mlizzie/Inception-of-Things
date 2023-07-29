@@ -11,9 +11,9 @@ This project will consist of setting up several environments under specific rule
 
 It is divided into three parts we have to do in the following order:
 
-Part 1: K3s and Vagrant
-Part 2: K3s and three simple applications
-Part 3: K3d and Argo CD
+Part 1: K3s and Vagrant<br/>
+Part 2: K3s and three simple applications<br/>
+Part 3: K3d and Argo CD<br />
 
 
 ## Bonus part
